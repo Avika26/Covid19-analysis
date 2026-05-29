@@ -34,7 +34,6 @@ covid19-analysis/
 ##  Dataset
 **Source:** [Our World in Data - COVID-19 Dataset (Kaggle)](https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset)  
 **File:** `owid-covid-data.csv` (91.89 MB, 67 columns)  
-**Remote source:** https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 ##  Libraries Used
 `pandas` `numpy` `matplotlib` `seaborn` `plotly` `geopandas` `ipywidgets`
