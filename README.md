@@ -1,6 +1,6 @@
 # COVID-19 Global Data Analysis, Visualization and Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-data--analysis-brightgreen) ![Plotly](https://img.shields.io/badge/Plotly-interactive-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-purple)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-data--analysis-brightgreen) ![Plotly](https://img.shields.io/badge/Plotly-interactive-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-purple) ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 
 **End-to-end analysis of global COVID-19 data (Jan 2020 – Oct 2023) · 237 countries · 326,222 rows**
 
@@ -139,6 +139,22 @@ An interactive 5-page COVID-19 global dashboard built in Power BI Desktop, exten
 | Country Comparison | Top 10 countries, GDP vs mortality scatter, dynamic metric selector |
 | Risk Factors | Median age, hospital capacity, diabetes prevalence vs death rates |
 | Country Deep Dive | Drillthrough page — click any country to explore its full timeline |
+
+### Global Overview
+![Gloabl Overview](images/Overview.png)
+
+### Trends Over Time
+![Trends Over Time](images/Trends.png)
+
+### Country Comparison
+![Country Comparison](images/CountryCompare.png)
+
+### Risk Factors
+![Risk Factors](images/RiskFactors.png)
+
+### Country Deep Dive
+![Country Deep Dive](images/Drill.png)
+
 
 ### Dashboard Insights
 
